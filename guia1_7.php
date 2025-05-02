@@ -10,9 +10,18 @@
     
         $nombre=$_REQUEST['nombre']; 
 
-        $edad=$_REQUEST['edad'];  
+        $edad=$_REQUEST['edad'];   
 
-        e
+        if($edad>=18){  
+
+            echo"$nombre,es mayor de edad";
+        }
+        else{ 
+
+            echo"$nombre,es menor de edad"; 
+
+        }
+        
     
     ?>
 </body>
