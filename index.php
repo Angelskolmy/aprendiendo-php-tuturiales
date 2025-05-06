@@ -18,10 +18,10 @@
         <li><a href="ejercicio_9php.html" target="_blank">noveno ejrcicio</a></li>
         <li><a href="ejercicio_10php.html" target="_blank">decimo ejercicio</a></li>
         <li><a href="gia1_11.php" target="_blank">decimo primer ejercicio</a></li>
-        <li><a href="" target="_blank">decimo segundo ejercicoo</a></li>
-        <li><a href="" target="_blank">decimo tercer ejercicio</a></li>
-        <li><a href="" target="_blank">decimo cuarto ejercicio</a></li>
-        <li><a href="" target="_blank">decimo quinto ejercicio</a></li>
+        <li><a href="ejercicio_12php.html" target="_blank">decimo segundo ejercicoo</a></li>
+        <li><a href="1_13.php" target="_blank">decimo tercer ejercicio</a></li>
+        <li><a href="ejercicio1_14php.html" target="_blank">decimo cuarto ejercicio</a></li>
+        <li><a href="guia1_14.php" target="_blank">decimo quinto ejercicio</a></li>
         <li><a href="" target="_blank">decimo sexto ejercicio</a></li>
         <li><a href="" target="_blank">decimo septimo ejercicio</a></li>
         <li><a href="" target="_blank">decimo octavo ejercicio</a></li>
