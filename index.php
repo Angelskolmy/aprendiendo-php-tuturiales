@@ -20,14 +20,21 @@
         <li><a href="gia1_11.php" target="_blank">decimo primer ejercicio</a></li>
         <li><a href="ejercicio_12php.html" target="_blank">decimo segundo ejercicoo</a></li>
         <li><a href="1_13.php" target="_blank">decimo tercer ejercicio</a></li>
-        <li><a href="ejercicio1_14php.html" target="_blank">decimo cuarto ejercicio</a></li>
+        <li><a href="guia1_14.php" target="_blank">decimo cuarto ejercicio</a></li>
         <li><a href="ejercicio 15php.html" target="_blank">decimo quinto ejercicio</a></li>
         <li><a href="ejercicio_16php.html" target="_blank">decimo sexto ejercicio</a></li>
-        <li><a href="" target="_blank">decimo septimo ejercicio</a></li>
-        <li><a href="" target="_blank">decimo octavo ejercicio</a></li>
-        <li><a href="" target="_blank">decimo noveno ejercicio</a></li>
-        <li><a href="" target="_blank">vigesimo ejercicio</a></li>
-
+        <li><a href="ejercicio_17php.html" target="_blank">decimo septimo ejercicio</a></li>
+        <li><a href="ejerccio18php.html" target="_blank">decimo octavo ejercicio</a></li>
+        <li><a href="ejercicio19php.html" target="_blank">decimo noveno ejercicio</a></li>
+        <li><a href="formulario_20.php" target="_blank">vigesimo ejercicio</a></li> 
+        <li><a href="formulaio_ingreso 21.php" target="_blank">vigesimo primero</a></li> 
+        <li><a href="formulario_22.php" target="_blank">vigesimo segundo</a></li> 
+        <li><a href="formulario_23.php" target="_blank">vigesimo tercero</a></li> 
+        <li><a href="formulario_24.php" target="_blank">vigesimo cuarto</a></li>
+        <li><a href="formulario_25.php" target="_blank">vigesimo quinto</a></li> 
+        <li><a href="formulario_26.php" target="_blank">vigesimo sexto</a></li> 
+        <li><a href="guia2_27.php" target="_blank">vigesimo septimo</a></li>
+        <li><a href="formulario_28.php" target="_blank">vigesimo octavo</a></li>
     </ol>
 </body>
 </html>
