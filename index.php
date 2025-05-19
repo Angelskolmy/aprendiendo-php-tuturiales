@@ -34,7 +34,19 @@
         <li><a href="formulario_25.php" target="_blank">vigesimo quinto</a></li> 
         <li><a href="formulario_26.php" target="_blank">vigesimo sexto</a></li> 
         <li><a href="guia2_27.php" target="_blank">vigesimo septimo</a></li>
-        <li><a href="formulario_28.php" target="_blank">vigesimo octavo</a></li>
+        <li><a href="formulario_28.php" target="_blank">vigesimo octavo</a></li> 
+        <li><a href="formulario_29.php" target="_blank">vigesimo noveno</a></li>
+        <li><a href="formulario_30.php" target="_blank">trigesimo</a></li>
+        <li><a href="formulario_31.php" target="_blank">trigesimo primero</a></li>
+        <li><a href="formulario_32.php" target="_blank">trigesimo segundo</a></li>
+        <li><a href="formulaio_33.php" target="_blank">trigesimo tercero</a></li>
+        <li><a href="guia3_34.php" target="_blank">trigesimo cuarto</a></li>
+        <li><a href="formulario_35.php" target="_blank">trigesimo quinto</a></li>
+        <li><a href="formulario_36.php" target="_blank">trigesimo sexto</a></li>
+        <li><a href="formulario_37.php" target="_blank">trigesimo septimo</a></li>
+        <li><a href="formulario_38.php" target="_blank">trigesimo octavo</a></li>
+        <li><a href="formulario 39.php" target="_blank">trigesimo noveno</a></li>
+        
     </ol>
 </body>
 </html>
